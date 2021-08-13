@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import DataService from "../Services/Service";
+import DataService from "../Services/WebAdminService";
 import { Link } from "react-router-dom";
 
   export default class RejectedReviewList extends Component {
